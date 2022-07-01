@@ -1,0 +1,1 @@
+https://www.reddit.com/r/haskell/comments/5ov5k1/how_to_stack_build_specifically_lens_on_a_low/
